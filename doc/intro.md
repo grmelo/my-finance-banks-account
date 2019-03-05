@@ -1,3 +1,3 @@
-# Introduction to my-finance-banks-account
+# Introduction to my-cloruje-study
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)

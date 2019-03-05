@@ -1,6 +1,6 @@
-(ns my-finance-banks-account.core-test
+(ns my-cloruje-study.core-test
   (:require [clojure.test :refer :all]
-            [my-finance-banks-account.core :refer :all]))
+            [my-cloruje-study.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

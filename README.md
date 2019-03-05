@@ -1,16 +1,16 @@
-# my-finance-banks-account
+# my-cloruje-study
 
-FIXME: description
+Service from 'my finances' - responsible to process banks accounts information - this is a study to learn clojure and datomic.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/grmelo/my-cloruje-study
 
 ## Usage
 
 FIXME: explanation
 
-    $ java -jar my-finance-banks-account-0.1.0-standalone.jar [args]
+    $ java -jar my-cloruje-study-0.1.0-standalone.jar [args]
 
 ## Options
 
